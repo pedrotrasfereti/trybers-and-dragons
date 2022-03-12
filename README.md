@@ -28,7 +28,7 @@ Non-humanoid `Monsters` also inhabit the planet. You may test your luck with the
 
 During the development I was able to:
 
-* Understand and apply the pillars of the **OOP** paradigm: `Abstraction`, `Encapsulation`, `Inheritance`, `Polymorphism`.
+* Understand and apply the principles of the **OOP** paradigm: `Abstraction`, `Encapsulation`, `Inheritance`, `Polymorphism`.
 * Exercise the use of `Composition`;
 * Exercise the creation and usage of `Interfaces`;
 * Implement, in TypeScript: `Classes`, `Instances`, `Attributes`, `Methods` and `Objects`;
