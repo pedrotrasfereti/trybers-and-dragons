@@ -24,13 +24,15 @@ In this fantasy universe, you can play as one of the four archetypes — `Mage`,
 as well as belong to one of the humanoid races: `Dwarf`, `Elf`, `Halfling` and `Orc`. Every character will be unique, each possessing different **strength**, **defense**, **dexterity** and **energy** points.
 Non-humanoid `Monsters` also inhabit the planet. You may test your luck with them in a _player versus player_ (**PVP**) `battle` 🧙‍♀️⚔️.
 
+<br>
+
 During the development I was able to:
 
 * Understand and apply the pillars of the **OOP** paradigm: `Abstraction`, `Encapsulation`, `Inheritance`, `Polymorphism`.
 * Exercise the use of `Composition`;
 * Exercise the creation and usage of `Interfaces`;
 * Implement, in TypeScript: `Classes`, `Instances`, `Attributes`, `Methods` and `Objects`;
-* Exercise knowledge through the application of **SOLID** principles.
+* Exercise knowledge through the application of **S.O.L.I.D.** principles.
 
 <br>
 
