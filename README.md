@@ -15,7 +15,7 @@
 ## RPG With SOLID Architecture and OOP
 
 Welcome to the _GitHub repository_ of my eigth back-end project, **Trybers and Dragons**!
-Here you can find information about the project's development, such as which technologies were used, how to install and run the project, usage and more.
+Here you can find information about the project's development, such as which technologies were used, how to get a local copy, usage and more.
 
 This back-end application was developed during my time at [Trybe](https://www.betrybe.com/) to practice the lessons learned on **S.O.L.I.D.** architecture and
 Object Oriented Programming (**OOP**).
